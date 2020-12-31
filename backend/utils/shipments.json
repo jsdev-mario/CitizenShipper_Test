@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Shipment1 Title",
+        "category": "food",
+        "description": "Sipment1 Description Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis, debitis nesciunt possimus eos est repellat odio eligendi enim qui tempora repellendus inventore explicabo tenetur nemo vel, quae laudantium temporibus. Ex error, ipsum rem esse harum, quidem quo quibusdam commodi voluptas quisquam mollitia reiciendis, unde laudantium fugit ratione dolore. Reprehenderit hic deleniti corporis, provident sint eligendi accusantium sed nobis? Iste exercitationem facilis cumque laboriosam? Necessitatibus eveniet dolorem facilis omnis, iure magnam. Debitis fuga explicabo odit expedita nisi nemo odio. Voluptatum odit quos repudiandae laboriosam ipsum impedit! Laudantium recusandae aliquid eligendi odio accusantium esse iure, corrupti aspernatur id. Tenetur quaerat ipsa, quod consectetur optio libero nostrum inventore repudiandae quas veritatis commodi necessitatibus tempore, quae blanditiis. Ducimus laborum corrupti quo commodi nulla eveniet suscipit repellendus libero, voluptates praesentium autem maiores iusto repellat veniam earum beatae nisi odio nobis. Magni sint numquam tempore suscipit culpa dolor exercitationem dolorum, ",
+        "address": "Nikol's'ka St, 68, Mykolaiv, Mykolaiv Oblast, Ukraine, 54000"
+    },
+    {
+        "id": 2,
+        "title": "Shipment2 Title",
+        "category": "electronic products",
+        "description": "Sipment2 Description Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis, debitis nesciunt possimus eos est repellat odio eligendi enim qui tempora repellendus inventore explicabo tenetur nemo vel, quae laudantium temporibus. Ex error, ipsum rem esse harum, quidem quo quibusdam commodi voluptas quisquam mollitia reiciendis, unde laudantium fugit ratione dolore. Reprehenderit hic deleniti corporis, provident sint eligendi accusantium sed nobis? Iste exercitationem facilis cumque laboriosam? Necessitatibus eveniet dolorem facilis omnis, iure magnam. Debitis fuga explicabo odit expedita nisi nemo odio. ",
+        "address": "54000, Mykolaiv, Mykolaiv Oblast, Ukraine"
+    }
+]
